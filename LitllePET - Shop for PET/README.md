@@ -35,4 +35,3 @@
 # License & copyright
 
 © Bao Chau Bong, FPT University Hoa Lac
-Licensed under the [MIT LICENSE](LICENSE).

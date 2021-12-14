@@ -28,7 +28,7 @@
 - I built this application with Netbean 8.2 so maybe you can use Netbean IDE to make it more easily to import project.
 - If you use other IDE such as Eclipse or Intellij IDEA, you will need to find the way to config this project before use.
 - After import this project to IDE, adding JSTL support (almost all IDE support adding JSTL lib) and all external library in `Lib_jar_files`.
-- Then, you will need to change `DBHelperExample.java` to `DBHelper.java` and replace database connection information to suit your need.
+- Then, you will need to change username and password in `DBContext` which match with your SQLServler.
 - Finally, setup database with my `database.sql` scripts.
 - That's all, enjoy LittlePET!.
 

@@ -1,4 +1,4 @@
-# <img src="./docs/images/logo.png" width="35" height="35" /> VeShop
+# <img src="./docs/images/logo.png" width="35" height="35" /> LittlePET
 
 **Note**: This application uses heroku free tier for production so it's maybe slow when startup, please be patient.
 

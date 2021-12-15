@@ -1,7 +1,5 @@
 # <img src="./docs/images/logo.jpg" width="35" height="35" /> LittlePET
 
-**Note**: This application uses heroku free tier for production so it's maybe slow when startup, please be patient.
-
 ## What is LittlePET?
 - It's a shopping cart application for selling pet accessories.
 - This web application also contains Admin role for manage stock, category, etc...Therefore, if you find some security issues that can break in to my Admin account, please contact me, I will be very appreciate.
